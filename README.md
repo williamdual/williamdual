@@ -7,7 +7,7 @@ I'm a university student studying Computer Science with a specialization in Game
 ---
 # 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,pug,latex,rust,markdown,cs">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,cpp,pug,latex,rust,markdown,cs">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,unity,godot,nodejs,express,mongodb,svg,discord">
 <p>
   
