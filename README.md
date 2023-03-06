@@ -7,13 +7,14 @@ I'm a university student studying Computer Science with a specialization in Game
 ---
 # 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,cpp,pug,latex,rust,markdown,cs">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,cpp,cs,latex,pug,rust,markdown">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,unity,godot,nodejs,express,mongodb,svg,discord">
 <p>
-  
+ <!---
 <p align="center">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Williamdual&theme=dark&hide_border=false&include_all_commits=false&count_private=true&langs_count=6&hide=GAP&layout=compact"
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Williamdual&theme=dark&hide_border=false&include_all_commits=false&count_private=true&langs_count=8&hide=GAP,SHADERLAB,HLSL&layout=compact"
 <p>
+-->
 <h1>Game Dev Projects (playable on <a href= "https://williamdual.itch.io/" target="_blank">itch.io</a>)</h1>
 <br />
 
@@ -26,3 +27,4 @@ I'm a university student studying Computer Science with a specialization in Game
 <br />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BruteYapper&repo=Coastal_Hacks_Projects)](https://github.com/BruteYapper/Coastal_Hacks_Projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=williamdual&repo=Hack-the-Hill)](https://github.com/williamdual/Hack-the-Hill)
