@@ -20,11 +20,12 @@ I'm a university student studying Computer Science with a specialization in Game
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1501-Intro-To-Game-Design&repo=1501-final-project-2022-the-team-that-is-going-to-kill-thanos
 )](https://github.com/1501-Intro-To-Game-Design/1501-final-project-2022-the-team-that-is-going-to-kill-thanos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=T0mGates&repo=GGJ2022Duality)](https://github.com/T0mGates/GGJ2022Duality)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=williamdual&repo=GGJ2023)](https://github.com/williamdual/GGJ2023)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Friendly-Neighborhood-Programmer&repo=Diagnosis-DEATH)](https://github.com/Friendly-Neighborhood-Programmer/Diagnosis-DEATH)
 
 <h1>Hackthon Projects</h1>
 <br />
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=T0mGates&repo=GGJ2022Duality)](https://github.com/T0mGates/GGJ2022Duality)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BruteYapper&repo=Coastal_Hacks_Projects)](https://github.com/BruteYapper/Coastal_Hacks_Projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=williamdual&repo=GGJ2023)](https://github.com/williamdual/GGJ2023)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=williamdual&repo=Hack-the-Hill)](https://github.com/williamdual/Hack-the-Hill)
