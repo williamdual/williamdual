@@ -29,3 +29,5 @@ I'm a university student studying Computer Science with a specialization in Game
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BruteYapper&repo=Coastal_Hacks_Projects)](https://github.com/BruteYapper/Coastal_Hacks_Projects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=williamdual&repo=GGJ2023)](https://github.com/williamdual/GGJ2023)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=williamdual&repo=Hack-the-Hill)](https://github.com/williamdual/Hack-the-Hill)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=williamdual&repo=GGJ2024)](https://github.com/williamdual/GGJ2024)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Noahbreton8&repo=ML-Blackjack)](https://github.com/Noahbreton8/ML-Blackjack)
